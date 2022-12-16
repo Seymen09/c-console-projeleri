@@ -1,2 +1,2 @@
-# c-console-projeleri
+ c#-console-projeleri
 c# console çalışmaları
