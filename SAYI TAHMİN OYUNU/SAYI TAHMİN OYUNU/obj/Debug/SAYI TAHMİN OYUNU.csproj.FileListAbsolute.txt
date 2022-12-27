@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\bin\Debug\SAYI TAHMİN OYUNU.exe.config
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\bin\Debug\SAYI TAHMİN OYUNU.exe
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\bin\Debug\SAYI TAHMİN OYUNU.pdb
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.exe
+C:\Users\HP\Desktop\projects\SAYI TAHMİN OYUNU\SAYI TAHMİN OYUNU\obj\Debug\SAYI TAHMİN OYUNU.pdb

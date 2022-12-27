@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\projects\hjj\hjj\bin\Debug\hjj.exe.config
+C:\Users\HP\Desktop\projects\hjj\hjj\bin\Debug\hjj.exe
+C:\Users\HP\Desktop\projects\hjj\hjj\bin\Debug\hjj.pdb
+C:\Users\HP\Desktop\projects\hjj\hjj\obj\Debug\öğrenciuygulaması.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\projects\hjj\hjj\obj\Debug\öğrenciuygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\projects\hjj\hjj\obj\Debug\öğrenciuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\hjj\hjj\obj\Debug\hjj.exe
+C:\Users\HP\Desktop\projects\hjj\hjj\obj\Debug\hjj.pdb
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\obj\Debug\öğrenciuygulaması.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\obj\Debug\öğrenciuygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\obj\Debug\öğrenciuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\obj\Debug\hjj.exe
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\obj\Debug\hjj.pdb
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\bin\Debug\hjj.exe.config
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\bin\Debug\hjj.exe
+C:\Users\HP\Desktop\projects\Okul bilgi uygulaması\hjj\bin\Debug\hjj.pdb
